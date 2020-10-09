@@ -38,7 +38,7 @@ I think the likes to say newsroom because he trys to hard to be funny
 CONRAD
 Newsroom! Newsroom! Newsroom! Newsroom!
 
-DOR[SOTTO]
+JAMESON[SOTTO]
 Kick him from the call
 
 JOHNSON
@@ -81,7 +81,7 @@ Oh Darn, Oh my goodness
 ```
 JOHNSON
 We are back, in the newsroom, with Jameson out on the grounds
-reporting that there has been an accident, we now go to Dor
+reporting that there has been an accident, we now go to Jameson
 ```
 #### Grounds
 ```
