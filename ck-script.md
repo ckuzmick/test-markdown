@@ -6,32 +6,32 @@ Now before we move on, lets see what or friedns here have to say
 ```
 #### Grounds
 ```
-TALIA
+JOHNSON
 Hello!
 
-DOR
+JOHNSON
 so this is new being on the grounds, as you might know, currently we have no
 reason whatsoever for doing this, but we did do it because...
 
 CONRAD
 Hello!
 
-TALIA
+JOHNSON
 Yes, we can hear you
 
 CONRAD
 Newsroom! Newsroom! Do you copy
 
-TALIA
+JOHNSON
 Yes!
 
 CONRAD
 I am I in the newsroom!
 
-TALIA
+JOHNSON
 ...What
 
-DOR
+JAMESON
 I think the likes to say newsroom because he trys to hard to be funny
 
 CONRAD
@@ -40,7 +40,7 @@ Newsroom! Newsroom! Newsroom! Newsroom!
 DOR[SOTTO]
 Kick him from the call
 
-TALIA
+JOHNSON
 Ok
 
 CONRAD
@@ -48,7 +48,7 @@ Newsroom, Newsroom, Wait, I'm getting kicke--!
 
 *Windows XP disconnect sound*
 
-DOR
+JAMESON
 thats it for now folks, see you later! Now for ... made by ...
 ```
 #### Tea at Home
@@ -78,13 +78,13 @@ Oh Darn, Oh my goodness
 ```
 #### Newsroom
 ```
-TALIA
+JOHNSON
 We are back, in the newsroom, with Dor out on the grounds
 reporting that there has been an accident, we now go to Dor
 ```
 #### Grounds
 ```
-DOR
+JAMESON
 Hello, and yes Talia, there has been an accident, at one
 of the houses near the school there has reportedly been
 an electrical accident after one of the residents spilled
@@ -98,22 +98,22 @@ Conrad?
 ```
 #### Newsroom
 ```
-TALIA
+JOHNSON
 Maybe it is?
 
 *someone hands her a paper*
 
-TALIA
+JOHNSON
 Oh, it is
 ```
 #### Grounds
 ```
-DOR
+JAMESON
 Are we to fault for this?
 ```
 #### Newsroom
 ```
-TALIA
+JOHNSON
 I think it's fine, thats just conrads stlye
 ```
 
