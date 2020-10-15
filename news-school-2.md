@@ -1,0 +1,1 @@
+# Funny School News
